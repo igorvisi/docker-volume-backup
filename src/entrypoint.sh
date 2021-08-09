@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # Copyright 2021 - Igor VISI < igorvisi.com >
 # SPDX-License-Identifier: MPL-2.0
